@@ -13,7 +13,7 @@ def hello():
 @app.route('/hello')
 def hello2():
     return 'my name is nanajee'
-@app.route('/hai')
+@app.route('/hi')
 def hello3():
     return 'WELCOME TO VIZG'
 
